@@ -1,0 +1,6 @@
+Process and Threads 
+Concurrency and synchronization -- most time spent
+Memory management
+CPU scheduling -- less time spent 
+File systems and OS
+IPC and Sockets 
