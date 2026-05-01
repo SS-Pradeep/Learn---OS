@@ -1,0 +1,1 @@
+In this folder the notes of process and threads are given and also the coding part is also present for deeper understanding..
