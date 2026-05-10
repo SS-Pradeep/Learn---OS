@@ -1,6 +1,6 @@
 Process and Threads 
-Concurrency and synchronization -- most time spent
+Concurrency and synchronization 
 Memory management
-CPU scheduling -- less time spent 
+CPU scheduling  
 File systems and OS
 IPC and Sockets 
