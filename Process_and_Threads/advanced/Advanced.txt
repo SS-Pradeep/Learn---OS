@@ -1,0 +1,16 @@
+advanced/
+│   │   ├── copy_on_write_demo.c
+│   │   ├── process_memory_layout.c
+│   │   ├── vfork_demo.c
+│   │   ├── daemon_process.c
+│   │   ├── process_priority.c
+│   │   ├── cpu_affinity.c
+│   │   ├── signal_handling.c
+│   │   ├── signal_vs_kill.c
+│   │   ├── process_group.c
+│   │   ├── session_management.c
+│   │   ├── proc_filesystem.c
+│   │   ├── shared_memory_fork.c
+│   │   ├── mini_scheduler_sim.c
+│   │   └── ptrace_demo.c
+

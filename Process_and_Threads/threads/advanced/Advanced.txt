@@ -1,0 +1,9 @@
+├── advanced/
+│   │   ├── thread_pool.c
+│   │   ├── readers_writers_threads.c
+│   │   ├── dining_philosophers_threads.c
+│   │   ├── deadlock_demo.c
+│   │   ├── starvation_demo.c
+│   │   ├── livelock_demo.c
+│   │   ├── thread_safe_queue.c
+│   │   └── multithreaded_matrix_mul.c
